@@ -134,7 +134,7 @@ Example data format in `data.json`:
         }
     ]
 
-License
+## License
 
 This project is licensed under the MIT License.
 
