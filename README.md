@@ -119,20 +119,20 @@ Example Data
 
 Example data format in `data.json`:
 
-[
-    {
-        "name": "Bulbasaur",
-        "price": "£63.00",
-        "short_description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-        "stock": "45 in stock"
-    },
-    {
-        "name": "Ivysaur",
-        "price": "£87.00",
-        "short_description": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-        "stock": "142 in stock"
-    }
-]
+    [
+        {
+            "name": "Bulbasaur",
+            "price": "£63.00",
+            "short_description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+            "stock": "45 in stock"
+        },
+        {
+            "name": "Ivysaur",
+            "price": "£87.00",
+            "short_description": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
+            "stock": "142 in stock"
+        }
+    ]
 
 License
 
